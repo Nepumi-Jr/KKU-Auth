@@ -1,5 +1,4 @@
 import requests
-import configparser
 from getpass import getpass
 import time
 
